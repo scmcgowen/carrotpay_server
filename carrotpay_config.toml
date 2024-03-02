@@ -1,0 +1,5 @@
+private_key = "YOUR KRIST KEY HERE"
+[database]
+  username = "username"
+  password = "passwd"
+  database = "db"
